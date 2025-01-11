@@ -1,1 +1,4 @@
 ini adalah halaman ke 3
+ini adalah tentang latihan git
+dan harus saya sudah belajar ini
+tapi saya mengulang nya lagi
